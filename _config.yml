@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: Jekyll Klisé # author name
-  bio: >- # ¡Hola! 👋
+  bio: >- # ¡Hola! 
 Soy bruno, apasionado del desarrollo web y la tecnología. 
 En este espacio comparto mis aprendizajes, proyectos y experiencias en programación, con un enfoque entemas principales, como JavaScript, Python, desarrollo frontend/backend, etc. ¡Gracias por visitar y espero que disfrutes el contenido!
   username: bruno # general username
